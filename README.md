@@ -20,13 +20,17 @@ EIT is a widely used test where learners listen to a sentence and repeat it back
 ```
 AutoEIT/
 │
-├── Test1_Transcription/
+├── notebooks/
 │   ├── AutoEIT_Test1_Transcription_COLAB.ipynb   ← Transcription pipeline
-│   └── AutoEIT_Sample_Audio_for_Transcribing_COMPLETED.xlsx ← Output
+│   └── AutoEIT_Test2_Scoring_COLAB.ipynb         ← Scoring algorithm
 │
-├── Test2_Scoring/
-│   ├── AutoEIT_Test2_Scoring_COLAB.ipynb         ← Scoring algorithm
-│   └── AutoEIT_Sample_Transcriptions_for_Scoring_COMPLETED.xlsx ← Output
+├── results/
+│   ├── AutoEIT_Sample_Audio_for_Transcribing_COMPLETED.xlsx     ← Test 1 output
+│   └── AutoEIT Sample Transcriptions for Scoring.xlsx           ← Test 2 input/sample
+│
+├── demo-videos/
+│   ├── REC-20260307233106.mp4   ← Task 1 demo
+│   └── REC-20260307235025.mp4   ← Task 2 demo
 │
 └── README.md
 ```
@@ -99,18 +103,27 @@ Score distributions match the expected pattern from the literature — shorter s
 Both notebooks run on Google Colab with a free T4 GPU.
 
 ### Test I
-1. Open `AutoEIT_Test1_Transcription_COLAB.ipynb` in Google Colab
+1. Open `notebooks/AutoEIT_Test1_Transcription_COLAB.ipynb` in Google Colab
 2. Enable GPU: Runtime → Change runtime type → T4 GPU
 3. Run all cells
 4. Upload the 4 MP3 files and `AutoEIT_Sample_Audio_for_Transcribing.xlsx` when prompted
 5. Wait ~15 minutes for transcription
-6. Download the completed Excel file
+6. Download the completed Excel file (saved to `results/` if running locally)
 
 ### Test II
-1. Open `AutoEIT_Test2_Scoring_COLAB.ipynb` in Google Colab
+1. Open `notebooks/AutoEIT_Test2_Scoring_COLAB.ipynb` in Google Colab
 2. No GPU needed — runs in ~2 minutes
-3. Upload `AutoEIT_Sample_Transcriptions_for_Scoring.xlsx` when prompted
+3. Upload `AutoEIT_Sample_Transcriptions_for_Scoring.xlsx` from `results/` when prompted
 4. Download the completed Excel file with scores
+
+---
+
+## Demo Videos
+
+| Task | Video |
+|------|-------|
+| **Task 1 — Transcription** | [Task 1 Demo](demo-videos/REC-20260307233106.mp4) |
+| **Task 2 — Scoring** | [Task 2 Demo](demo-videos/REC-20260307235025.mp4) |
 
 ---
 

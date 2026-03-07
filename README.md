@@ -120,8 +120,6 @@ Both notebooks run on Google Colab with a free T4 GPU.
 
 ## Demo Videos
 
-Click the image below each task to open and play the video (GitHub does not allow inline video in READMEs).
-
 ### Task 1 — Transcription
 
 [![Task 1 — Transcription demo](demo-videos/video-thumbnail.svg)](https://github.com/user-attachments/assets/0d850f5d-4043-4e24-813b-9da5786c7781)

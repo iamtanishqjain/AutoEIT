@@ -14,6 +14,19 @@ The AutoEIT project aims to automate two time-consuming tasks in second language
 EIT is a widely used test where learners listen to a sentence and repeat it back as accurately as possible. Researchers use it to measure language proficiency — but manually transcribing and scoring hundreds of recordings takes enormous time. This project automates that process.
 
 ---
+## Demo Videos
+
+### Task 1 — Transcription
+
+[![Task 1 — Transcription demo](demo-videos/video-thumbnail.svg)](https://github.com/user-attachments/assets/0d850f5d-4043-4e24-813b-9da5786c7781)
+
+
+### Task 2 — Scoring
+
+[![Task 2 — Scoring demo](demo-videos/video-thumbnail.svg)](https://github.com/user-attachments/assets/b9bf8cb5-d718-4741-abe9-7519ddd095d6)
+
+
+---
 
 ## Repository Structure
 
@@ -117,21 +130,6 @@ Both notebooks run on Google Colab with a free T4 GPU.
 4. Download the completed Excel file with scores
 
 ---
-
-## Demo Videos
-
-### Task 1 — Transcription
-
-[![Task 1 — Transcription demo](demo-videos/video-thumbnail.svg)](https://github.com/user-attachments/assets/0d850f5d-4043-4e24-813b-9da5786c7781)
-
-
-### Task 2 — Scoring
-
-[![Task 2 — Scoring demo](demo-videos/video-thumbnail.svg)](https://github.com/user-attachments/assets/b9bf8cb5-d718-4741-abe9-7519ddd095d6)
-
-
----
-
 
 ## Tech Stack
 - Python 3.10

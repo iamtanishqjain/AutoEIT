@@ -84,7 +84,7 @@ Implement a reproducible script that applies the Ortega (2000) meaning-based rub
 - Every score has a human-readable rationale for audit
 
 ### Validation
-7/7 rubric examples from Tables 1-5 passed.
+12/12 rubric examples from Tables 1–5 passed,
 
 ### Results
 | Participant | Total (/120) | Mean (/4) |

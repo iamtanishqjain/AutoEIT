@@ -120,10 +120,19 @@ Both notebooks run on Google Colab with a free T4 GPU.
 
 ## Demo Videos
 
-| Task | Video |
-|------|-------|
-| **Task 1 — Transcription** | [Task 1 Demo](demo-videos/REC-20260307233106.mp4) |
-| **Task 2 — Scoring** | [Task 2 Demo](demo-videos/REC-20260307235025.mp4) |
+Click the image below each task to open and play the video (GitHub does not allow inline video in READMEs).
+
+### Task 1 — Transcription
+
+[![Task 1 — Transcription demo](demo-videos/video-thumbnail.svg)](demo-videos/REC-20260307233106.mp4)
+
+**[▶ Watch Task 1 video](demo-videos/REC-20260307233106.mp4)** — click to open and play in your browser.
+
+### Task 2 — Scoring
+
+[![Task 2 — Scoring demo](demo-videos/video-thumbnail.svg)](demo-videos/REC-20260307235025.mp4)
+
+**[▶ Watch Task 2 video](demo-videos/REC-20260307235025.mp4)** — click to open and play in your browser.
 
 ---
 

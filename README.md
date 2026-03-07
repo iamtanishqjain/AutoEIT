@@ -124,17 +124,18 @@ Click the image below each task to open and play the video (GitHub does not allo
 
 ### Task 1 — Transcription
 
-[![Task 1 — Transcription demo](demo-videos/video-thumbnail.svg)](demo-videos/REC-20260307233106.mp4)
+[![Task 1 — Transcription demo](demo-videos/video-thumbnail.svg)](https://github.com/user-attachments/assets/0d850f5d-4043-4e24-813b-9da5786c7781)
 
 **[▶ Watch Task 1 video](demo-videos/REC-20260307233106.mp4)** — click to open and play in your browser.
 
 ### Task 2 — Scoring
 
-[![Task 2 — Scoring demo](demo-videos/video-thumbnail.svg)](demo-videos/REC-20260307235025.mp4)
+[![Task 2 — Scoring demo](demo-videos/video-thumbnail.svg)](https://github.com/user-attachments/assets/4020540d-f536-4687-83fb-2bae6e552924)
 
 **[▶ Watch Task 2 video](demo-videos/REC-20260307235025.mp4)** — click to open and play in your browser.
 
 ---
+
 
 ## Tech Stack
 - Python 3.10

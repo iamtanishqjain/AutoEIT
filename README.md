@@ -114,6 +114,15 @@ Both notebooks run on Google Colab with a free T4 GPU.
 
 ---
 
+## Demo Videos
+
+| Task | Video |
+|------|-------|
+| **Task 1 — Transcription** | [Task 1 Demo](demo-videos/REC-20260307233106.mp4) |
+| **Task 2 — Scoring** | [Task 2 Demo](demo-videos/REC-20260307235025.mp4) |
+
+---
+
 ## Tech Stack
 - Python 3.10
 - OpenAI Whisper large

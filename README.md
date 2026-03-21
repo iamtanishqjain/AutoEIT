@@ -1,6 +1,15 @@
 # AutoEIT — Automated EIT Transcription and Scoring System
+ 
 ### GSoC 2026 Evaluation Test | Tanishq Jain
-
+ 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Whisper](https://img.shields.io/badge/ASR-Whisper_Large-informational?logo=openai)
+![Rubric Tests](https://img.shields.io/badge/Rubric_Validation-12%2F12_Passed-brightgreen)
+![Transcription](https://img.shields.io/badge/Transcription-30%2F30_Matched-brightgreen)
+![GSoC](https://img.shields.io/badge/GSoC-2026-orange?logo=google)
+![CERN](https://img.shields.io/badge/Org-CERN_Human--AI-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+ 
 ---
 
 ## About This Project

@@ -1,0 +1,7 @@
+﻿openai-whisper
+openpyxl
+pandas
+matplotlib
+ffmpeg-python
+sentence-transformers
+groq
